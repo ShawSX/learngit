@@ -1,4 +1,0 @@
-
- hello git
- what is defferences between add an commit
-my stupid boss still prefer svn
